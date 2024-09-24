@@ -1,8 +1,8 @@
 # Problema de roteamento
-O âmbito deste projeto focou-se na obtenção de 13 rotas diárias distintas de uma empresa e otimização do tempo demorado, com recurso a programação em python.
-A organização forneceu 4 extensos ficheiros “Json” compostos pela sequência de distritos a respeitar, informação de cada mercadoria a ser entregue, a informação de cada rota (zonas e localizações geográficas) e os tempos decorridos entre duas entregas.
-TALVEZ ANEXAS JSONS
-O pensamento lógico para resolução deste projeto centrou-se em aplicar o modelo TSP (Traveling Salesman Problem), por outras palavras, modelo do caminho mais próximo, respeitando a sequência de distritos mencionada.
+O âmbito deste projeto focou-se na obtenção de 13 rotas diárias distintas de uma empresa e otimização do tempo demorado, com recurso a programação em python.<br />
+A organização forneceu 4 extensos ficheiros “Json” compostos pela sequência de distritos a respeitar, informação de cada mercadoria a ser entregue, a informação de cada rota (zonas e localizações geográficas) e os tempos decorridos entre duas entregas.<br />
+
+O pensamento lógico para resolução deste projeto centrou-se em aplicar o modelo TSP (Traveling Salesman Problem), por outras palavras, modelo do caminho mais próximo, respeitando a sequência de distritos mencionada.<br />
 Como referido anteriormente, os resultados pretendidos centram-se na obtenção de cada uma das 13 rotas e tempo total de viagem, nunca excedendo as 24 horas diárias, como se pode ver pelo seguinte exemplo:<br /><br />
 
 
