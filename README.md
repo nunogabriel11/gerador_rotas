@@ -7,7 +7,7 @@ Como referido anteriormente, os resultados pretendidos centram-se na obtenção 
 
 
 <p align="center">
-  <img src="https://github.com/nunogabriel11/gerador_rotas/blob/main/imgs/route6.png?raw=true" width="400" />
+  <img src="https://github.com/nunogabriel11/gerador_rotas/blob/main/imgs/route6.png?raw=true" width="550" />
 </p><br />
 
 <p align="center">
